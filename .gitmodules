@@ -22,3 +22,7 @@
 	path = zhangDev
 	url = https://github.com/dzhang10/hw_11_randfile.git
 	branch = master
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/11_randfile.git
+	branch = master
