@@ -18,3 +18,7 @@
 	path = leeSte
 	url = https://github.com/kevidgel/11_randfile
 	branch = main
+[submodule "zhangDev"]
+	path = zhangDev
+	url = https://github.com/dzhang10/hw_11_randfile.git
+	branch = master
