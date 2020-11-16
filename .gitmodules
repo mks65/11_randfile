@@ -33,3 +33,7 @@
 [submodule "prasadAmi"]
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-11_randfile.git
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/11_randfile_zhangAle
+	branch = master
