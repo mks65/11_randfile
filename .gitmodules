@@ -26,3 +26,6 @@
 	path = yeGen
 	url = https://github.com/Gene1212/11_randfile.git
 	branch = master
+[submodule "ku-benjetJer"]
+	path = ku-benjetJer
+	url = https://github.com/jku20/mk65_11_randfile.git
