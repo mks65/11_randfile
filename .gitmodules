@@ -37,3 +37,7 @@
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/11_randfile_zhangAle
 	branch = master
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/11_randfile.git
+	branch = main
