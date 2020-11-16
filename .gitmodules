@@ -30,3 +30,6 @@
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk65_11_randfile.git
 	branch = main
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-11_randfile.git
