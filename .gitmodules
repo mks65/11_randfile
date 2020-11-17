@@ -49,3 +49,7 @@
 	path = yeCul
 	url = https://github.com/CullenLYe/work11_randfile.git
 	branch = main
+[submodule "vostrikovVla"]
+	path = vostrikovVla
+	url = https://github.com/villinoid/11_systems
+	branch = main
