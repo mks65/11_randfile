@@ -124,3 +124,7 @@
 	path = chanSer
 	url = https://github.com/schan11/list.git
 	branch = master
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/work_11.git
+	branch = main
