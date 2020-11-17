@@ -53,3 +53,7 @@
 	path = vostrikovVla
 	url = https://github.com/villinoid/11_systems
 	branch = main
+[submodule "maoMad"]
+	path = maoMad
+	url = https://github.com/madelynxmao/11_randfile.git
+	branch = main
