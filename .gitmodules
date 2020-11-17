@@ -123,3 +123,6 @@
 	path = sahaAbh
 	url = https://github.com/AbhijeetSaha2142/11_randfile.git
 	branch = main
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/work_11.git
