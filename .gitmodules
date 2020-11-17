@@ -81,3 +81,7 @@
 	path = zhangJin
 	url = https://github.com/Jinzxc/11_randfile_J.git
 	branch = main
+[submodule "ganHao"]
+	path = ganHao
+	url = https://github.com/haotianGan/11_devise
+	branch = master
