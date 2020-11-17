@@ -104,3 +104,7 @@
 	path = luRan
 	url = https://github.com/RandyLu0/Work11
 	branch = main
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_11.git
+	branch = main
