@@ -65,3 +65,7 @@
 	path = hirotaEis
 	url = https://github.com/ei5uke/11_randfile.git
 	branch = main
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/hw11_randfile
+	branch = master
