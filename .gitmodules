@@ -96,3 +96,7 @@
 	path = zhouKel
 	url = https://github.com/KellyZhou223/randfile.git
 	branch = master
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/11_randfile_vj.git
+	branch = main
