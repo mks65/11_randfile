@@ -61,3 +61,7 @@
 	path = liSun
 	url = https://github.com/sunnyli13/Work11.git
 	branch = main
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/11_randfile.git
+	branch = main
