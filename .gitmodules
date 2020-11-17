@@ -115,3 +115,7 @@
 [submodule "hathawayMay"]
 	path = hathawayMay
 	url = https://github.com/mayhathaway/systems-11.git
+[submodule "siniscalcoFra"]
+	path = siniscalcoFra
+	url = https://github.com/NopeSiniscalco/11_randfile_mks.git
+	branch = main
