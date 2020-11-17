@@ -45,3 +45,7 @@
 	path = huLuc
 	url = https://github.com/lhu10/systems_11_randfile.git
 	branch = main
+[submodule "yeCul"]
+	path = yeCul
+	url = https://github.com/CullenLYe/work11_randfile.git
+	branch = main
