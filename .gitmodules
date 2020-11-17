@@ -92,3 +92,19 @@
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/11_randfile.git
+[submodule "zhouKel"]
+	path = zhouKel
+	url = https://github.com/KellyZhou223/randfile.git
+	branch = master
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/11_randfile_vj.git
+	branch = main
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work11
+	branch = main
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_11.git
+	branch = main
