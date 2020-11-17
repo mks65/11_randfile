@@ -108,3 +108,7 @@
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/Work_11.git
 	branch = main
+[submodule "hernandezCar"]
+	path = hernandezCar
+	url = https://github.com/KarlWithK/11_randfile_mks.git
+	branch = master
