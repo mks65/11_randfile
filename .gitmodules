@@ -41,3 +41,7 @@
 	path = linLei
 	url = https://github.com/llin11/11_randfile.git
 	branch = main
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_11_randfile.git
+	branch = main
