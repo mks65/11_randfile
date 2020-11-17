@@ -77,3 +77,7 @@
 	path = hw11
 	url = https://github.com/gzhao10/hw11.git
 	branch = main
+[submodule "zhangJin"]
+	path = zhangJin
+	url = https://github.com/Jinzxc/11_randfile_J.git
+	branch = main
