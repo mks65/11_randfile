@@ -100,3 +100,7 @@
 	path = jiangVin
 	url = https://github.com/vjiang10/11_randfile_vj.git
 	branch = main
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work11
+	branch = main
