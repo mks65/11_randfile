@@ -129,9 +129,6 @@
 	path = waldAle
 	url = https://github.com/SashaWald/work_11.git
 	branch = main
-[submodule "chenJac"]
-	path = chenJac
-	url = https://github.com/jchen2003/11_randfile.git
 [submodule "leeLuc"]
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/11_randfile.git
