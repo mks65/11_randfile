@@ -137,3 +137,7 @@
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/11_randfile
 	branch = main
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/11_randfile.git
+	branch = main
