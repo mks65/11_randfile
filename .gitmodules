@@ -137,3 +137,7 @@
 	path = chenJac
 	url = https://github.com/jchen2003/11_randfile.git
 	branch = main
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/randfile.git
+	branch = master
