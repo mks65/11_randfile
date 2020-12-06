@@ -121,10 +121,6 @@
 	path = sahaAbh
 	url = https://github.com/AbhijeetSaha2142/11_randfile.git
 	branch = main
-[submodule "chanSer"]
-	path = chanSer
-	url = https://github.com/schan11/list.git
-	branch = master
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/work_11.git
